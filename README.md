@@ -1,0 +1,2 @@
+# ELEC70122_ML_for_Safety_Critical_Decision_Making
+Homework Exercises for ELEC70122
